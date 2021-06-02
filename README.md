@@ -6,15 +6,14 @@ My Name is Christina and I am a Cell and Molecular Biologist turned Software Eng
 
 I am from 🇩🇪 living in beautiful California 🇺🇸 and working [@Postman](https://www.postman.com/) 👨‍🚀.
 
-Come say "Hi" on Twitter 👉 ![](https://img.shields.io/twitter/follow/ettinchen?style=social) I tweet and retweet only code and development content 🤓
 <!-- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
 
 
-### ✍️ writing Blog posts
+### ✍️ I am a content creator
 * I write on [Medium](https://christinavhastenrath.medium.com/)
 * I write for [Twilio](https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions)
-* I write for The StartUp
+* I write for [The StartUp](https://medium.com/swlh/make-algolia-search-results-more-relevant-8cfecead0a6b)
 
 And I maintain my own blog: [🦄 Code with Christina](https://www.codewithchristina.com)
 
@@ -49,7 +48,7 @@ In 2019 I participated in the DocuSign Hackathon in San Francisco. Our team Wild
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch264)](https://github.com/ch264/github-readme-stats)
 
 
-
+Come say "Hi" on Twitter 👉 ![](https://img.shields.io/twitter/follow/ettinchen?style=social) 👈 I tweet and retweet only code and development content 🤓
 
 
 <!--
