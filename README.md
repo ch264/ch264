@@ -1,5 +1,5 @@
 
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)] -->
+[![Header](https://pbs.twimg.com/profile_banners/278209883/1559233865/1500x500)](https://some-url.dev/)
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My Name is Christina and I am a Cell and Molecular Biologist turned Software Engineer. 
