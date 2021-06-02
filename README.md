@@ -2,9 +2,9 @@
 [![Header](https://pbs.twimg.com/profile_banners/278209883/1559233865/1500x500)](https://some-url.dev/)
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My Name is Christina and I am a Cell and Molecular Biologist turned Software Engineer. 
-
-I am from 🇩🇪 living in beautiful California 🇺🇸 and working [@Postman](https://www.postman.com/) 👨‍🚀.
+My Name is Christina and I am a Cell and Molecular Biologist turned Software Engineer. </br >
+I am from 🇩🇪 living in beautiful California 🇺🇸 and working [@Postman](https://www.postman.com/) 👨‍🚀. </br >
+Come say "Hi" on Twitter 👉 ![](https://img.shields.io/twitter/follow/ettinchen?style=social) 👈 I tweet and retweet only code and development content 🤓 </br >
 
 <!-- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
@@ -48,7 +48,7 @@ In 2019 I participated in the DocuSign Hackathon in San Francisco. Our team Wild
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch264)](https://github.com/ch264/github-readme-stats)
 
 
-Come say "Hi" on Twitter 👉 ![](https://img.shields.io/twitter/follow/ettinchen?style=social) 👈 I tweet and retweet only code and development content 🤓
+
 
 
 <!--
