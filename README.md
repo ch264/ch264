@@ -22,12 +22,12 @@ And I maintain my own blog: [🦄 Code with Christina](https://www.codewithchris
 
 ## I created and maintain
 
-#### Wordpress Plugin
+#### [Wordpress Plugin](https://github.com/ch264/WP-GH-actions)
 * Deploy to Frontend Plugin for headless Wordpress <br />
 I created a Wordpress plugin for our content team to push updates from headless wordpress to our GatsbyJS frontend with GitHub Actions.
 
-#### Chrome Extension
-* Christina's chrome Extension <br />
+#### [Chrome Extension](https://github.com/ch264/Chrome_extension)
+* [Christina's chrome Extension](https://chrome.google.com/webstore/detail/christinas-chrome-extensi/kmmafchjenalicnigbddpgjdigkmoomj?hl=en-GB) <br />
 My chrome extension has 1000+ users and was mentioned on LinkedIn.
 
 #### DocuSign and GoogleAPI Hackathon 3
