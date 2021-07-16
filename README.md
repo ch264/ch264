@@ -11,6 +11,7 @@ Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/
 
 <!-- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
+<a href="https://app.daily.dev/ch264"><img src="https://api.daily.dev/devcards/a6537e589bf4421cbba6f312dd444673.png?r=wkt" width="400" alt="Christina Hastenrath's Dev Card"/></a>
 
 
 
