@@ -1,5 +1,6 @@
 
-[![Header]((https://user-images.githubusercontent.com/36343528/134778003-8d90f943-74ce-4ebf-b3b0-63b018e7b51d.png)
+![Header](https://user-images.githubusercontent.com/36343528/134778108-3a51f40e-f6ef-4139-bcc2-ffd4376def37.png)
+
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My Name is Christina and I am a Cell and Molecular Biologist turned Software Engineer. </br >
