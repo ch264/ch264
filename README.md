@@ -1,5 +1,5 @@
 
-[![Header](https://pbs.twimg.com/profile_banners/278209883/1630805938/1500x500)](https://some-url.dev/)
+[![Header]((https://user-images.githubusercontent.com/36343528/134778003-8d90f943-74ce-4ebf-b3b0-63b018e7b51d.png)
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My Name is Christina and I am a Cell and Molecular Biologist turned Software Engineer. </br >
