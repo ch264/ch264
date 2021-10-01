@@ -20,7 +20,7 @@ Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/
 * I write for [Twilio](https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions)
 * I write for [The StartUp](https://medium.com/swlh/make-algolia-search-results-more-relevant-8cfecead0a6b)
 
-checkout my website: [🦄 christinahastenrath.com](https://www.christinahastenrath.com)
+checkout my website: [🦄 christinahastenrath.com](https://www.christinahastenrath.com) and find the easter egg 
 
 
 
