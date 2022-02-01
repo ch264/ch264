@@ -13,7 +13,7 @@ Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/
 <!-- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
 ### 🎙️ Speaker
-* I am giving my first talk at [GraphQL Conf](https://graphqlconf.org/schedule) on 09/25/21. It's free so you should totally come check out the conference! 
+* I am giving my first talk at [GraphQL Conf](https://graphqlconf.org/schedule) on 09/25/21. It's free so you should totally come check out the conference! You can watch the [recording here](https://youtu.be/aI-wI14D1nw)
 
 ### ✍️ I am a content creator
 * I write on [Medium](https://christinavhastenrath.medium.com/)
