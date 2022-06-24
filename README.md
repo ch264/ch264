@@ -55,8 +55,8 @@ In 2019 I participated in the DocuSign Hackathon in San Francisco. Our team Wild
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch264&layout=compact)](https://github.com/ch264/github-readme-stats)
 
-<a href="https://app.daily.dev/ch264"><img src="https://api.daily.dev/devcards/a6537e589bf4421cbba6f312dd444673.png?r=wkt" width="400" alt="Christina Hastenrath's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/ch264"><img src="https://api.daily.dev/devcards/a6537e589bf4421cbba6f312dd444673.png?r=wkt" width="400" alt="Christina Hastenrath's Dev Card"/></a>
+ -->
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=ch264) -->
