@@ -15,7 +15,8 @@ Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/
 ### 🎙️ Speaker
 * I gave my first conference talk at [GraphQL Conf](https://graphqlconf.org/schedule) in 2021. You can watch the [recording here](https://youtu.be/aI-wI14D1nw)
 * In May 2022 I gave the Keynote speech at [VenusHacks2022](https://venushacks.com/)
-* Checkout the awesome [DevJourney Podcast](https://devjourney.info/) and stay tuned for the episode where Tim welcomed me as a guest speaker.
+* Checkout the awesome [DevJourney Podcast](https://devjourney.info/) and stay tuned for the episode where Tim welcomed me as a guest speaker in 2022.
+* Twitter Spaces it where it is happening! in Aug 2022 I kicked off the first Postman Talks #GraphQL on Twitter Spaces.
 
 ### ✍️ I am a content creator
 * I write on [Medium](https://christinavhastenrath.medium.com/)
