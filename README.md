@@ -16,7 +16,7 @@ Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/
 * I gave my first conference talk at [GraphQL Conf](https://graphqlconf.org/schedule) in 2021. You can watch the [recording here](https://youtu.be/aI-wI14D1nw)
 * In May 2022 I gave the Keynote speech at [VenusHacks2022](https://venushacks.com/)
 * Checkout the awesome [DevJourney Podcast](https://devjourney.info/) and stay tuned for the episode where Tim welcomed me as a guest speaker in 2022.
-* Twitter Spaces it where it is happening! in Aug 2022 I kicked off the first Postman Talks #GraphQL on Twitter Spaces.
+* Twitter Spaces it where it is happening! in Aug 2022 I kicked off the first [Postman Talks GraphQL](https://twitter.com/i/spaces/1mnxedRRvEnJX?s=20) on Twitter Spaces.
 
 ### ✍️ I am a content creator
 * I write on [Medium](https://christinavhastenrath.medium.com/)
@@ -40,7 +40,7 @@ My chrome extension has 1000+ users and was mentioned on LinkedIn.
 
 #### DocuSign and GoogleAPI Hackathon 3
 * 3rd prize winner <br />
-In 2019 I participated in the DocuSign Hackathon in San Francisco. Our team Wilder Voices created an IOs app to save memories at particular spots inside national parks.
+In 2019 I participated in the [DocuSign & Google CLoud Hackathon](https://www.docusign.com/blog/dsdev-momentum-hackathon-2019) in San Francisco. Our team Wilder Voices created an IOs app to save memories at particular spots inside national parks.
 
 <!-- 
 ## Technologies and Tools
