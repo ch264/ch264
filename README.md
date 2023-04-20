@@ -36,9 +36,9 @@ I created a Wordpress plugin for our content team to push updates from headless 
 * [Christina's chrome Extension](https://chrome.google.com/webstore/detail/christinas-chrome-extensi/kmmafchjenalicnigbddpgjdigkmoomj?hl=en-GB) <br />
 My chrome extension has 1000+ users and was mentioned on LinkedIn.
 
-#### DocuSign and GoogleAPI Hackathon 3
+#### [DocuSign and GoogleAPI Hackathon 3](https://www.docusign.com/blog/dsdev-momentum-hackathon-2019)
 * 3rd prize winner <br />
-In 2019 I participated in the [DocuSign & Google CLoud Hackathon](https://www.docusign.com/blog/dsdev-momentum-hackathon-2019) in San Francisco. Our team Wilder Voices created an IOs app to save memories at particular spots inside national parks.
+In 2019 I participated in the DocuSign & Google CLoud Hackathon in San Francisco. Our team Wilder Voices created an IOs app to save memories at particular spots inside national parks.
 
 <!-- 
 ## Technologies and Tools
@@ -46,13 +46,13 @@ In 2019 I participated in the [DocuSign & Google CLoud Hackathon](https://www.do
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=appveyor=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
-## Here are some stats 
+<!-- ## Here are some stats 
 
 🚣‍♀️ generated with the Anurag's awesome [stats generator](https://github.com/anuraghazra/github-readme-stats) 🏄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch264)](https://github.com/ch264/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch264&layout=compact)](https://github.com/ch264/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch264&layout=compact)](https://github.com/ch264/github-readme-stats) -->
 
 <!-- <a href="https://app.daily.dev/ch264"><img src="https://api.daily.dev/devcards/a6537e589bf4421cbba6f312dd444673.png?r=wkt" width="400" alt="Christina Hastenrath's Dev Card"/></a>
  -->
