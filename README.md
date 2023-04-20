@@ -10,11 +10,11 @@ I am from 🇩🇪 living in beautiful California 🇺🇸 and working [@Postman
 <!-- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
 ### 🎙️ Speaker
-* I gave my first conference talk at [GraphQL Conf](https://graphqlconf.org/schedule) in 2021. You can watch the [recording here](https://youtu.be/aI-wI14D1nw)
-* In May 2022 I gave the Keynote speech at [VenusHacks2022](https://venushacks.com/)
-* Checkout the awesome [DevJourney Podcast](https://devjourney.info/) and stay tuned for [episode #218](https://www.linkedin.com/feed/update/urn:li:activity:6972794841269161984?utm_source=share&utm_medium=member_desktop) in which Tim welcomed me as a guest speaker.
-* Twitter Spaces it where it is happening! In Aug 2022 I kicked off the first [Postman Talks GraphQL](https://twitter.com/i/spaces/1mnxedRRvEnJX?s=20) as Co-Host on Twitter Spaces.
-* Watch the talk on [GraphQL and Caching](https://www.youtube.com/watch?v=XU5t2hk3hoc) that I gave in 2022 at (GraphQL Conf)[https://graphqlconf.org/]
+* I gave my first conference talk at [GraphQL Conf](https://graphqlconf.org/schedule) in 2021. You can watch my talk on [GraphQL and Security](https://youtu.be/aI-wI14D1nw)
+* In May 2022 I gave the Keynote speech at [VenusHacks2022](https://venushacks.com/) about diversity in Tech
+* Checkout the awesome [DevJourney Podcast](https://devjourney.info/) and catch me in [episode #218](https://www.linkedin.com/feed/update/urn:li:activity:6972794841269161984?utm_source=share&utm_medium=member_desktop) in which Tim welcomed me as a guest speaker.
+* Twitter Spaces it where it is happening! In Aug 2022 I kicked off the first [Postman Talks GraphQL](https://twitter.com/i/spaces/1mnxedRRvEnJX?s=20) as Co-Host on Twitter Spaces and gave a short introduction on how GraphQL fits into the [MACH](https://machalliance.org/)
+* Watch the talk on [GraphQL and Caching](https://www.youtube.com/watch?v=XU5t2hk3hoc) that I gave in 2022 at [GraphQL Conf](https://graphqlconf.org/)
 
 ### ✍️ I am a content creator
 * I write on [Medium](https://christinavhastenrath.medium.com/)
