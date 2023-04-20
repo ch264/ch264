@@ -1,12 +1,9 @@
 
-![Header](https://user-images.githubusercontent.com/36343528/134778108-3a51f40e-f6ef-4139-bcc2-ffd4376def37.png)
-
-
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My Name is Christina and I am a Cell and Molecular Biologist turned Software Engineer. </br >
 I am from 🇩🇪 living in beautiful California 🇺🇸 and working [@Postman](https://www.postman.com/) 👨‍🚀. </br >
-Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/ettinchen.svg?style=social&label=@ettinchen)](https://twitter.com/ettinchen) 👈 I tweet and retweet only code and development content 🤓 </br >
-
+<!-- Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/ettinchen.svg?style=social&label=@ettinchen)](https://twitter.com/ettinchen) 👈 I tweet and retweet only code and development content 🤓 </br >
+ -->
 
 
 
@@ -17,6 +14,7 @@ Come say "Hi" on Twitter 👉 [![Twitter](https://img.shields.io/twitter/follow/
 * In May 2022 I gave the Keynote speech at [VenusHacks2022](https://venushacks.com/)
 * Checkout the awesome [DevJourney Podcast](https://devjourney.info/) and stay tuned for [episode #218](https://www.linkedin.com/feed/update/urn:li:activity:6972794841269161984?utm_source=share&utm_medium=member_desktop) in which Tim welcomed me as a guest speaker.
 * Twitter Spaces it where it is happening! In Aug 2022 I kicked off the first [Postman Talks GraphQL](https://twitter.com/i/spaces/1mnxedRRvEnJX?s=20) as Co-Host on Twitter Spaces.
+* Watch the talk on [GraphQL and Caching](https://www.youtube.com/watch?v=XU5t2hk3hoc) that I gave in 2022 at (GraphQL Conf)[https://graphqlconf.org/]
 
 ### ✍️ I am a content creator
 * I write on [Medium](https://christinavhastenrath.medium.com/)
